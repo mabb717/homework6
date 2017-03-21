@@ -10,8 +10,8 @@ app.listen(port, () => {
 	console.log(`Listening on port ${port}!`)
 })
 
-app.get('/', (req, res) => {
-	res.sendFile(__dirname + '/index.html')
+app.get('*', (req, res) => {
+	res.sendFile(__dirname + '/public/index.html')
 })
 
 

@@ -1,0 +1,19 @@
+{
+  "name": "recipe1810",
+  "title": "Hamburger",
+  "date": "2013-09-01",
+  "description": "A hamburger is a tasty and nutritious way to consume a reasonably sized portion of a cow without having to hear it moo.",
+  "mainImageUrl": "burger-1.png",
+  "images": [
+    "burger-1.png",
+    "burger-2.png",
+    "burger-3.png",
+    "burger-4.png"
+  ],
+  "ingredients": [
+    "meat",
+    "bun",
+    "cheese (optional)",
+    "green stuff",
+    "red stuff"  ]
+}

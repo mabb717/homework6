@@ -1,0 +1,19 @@
+{
+  "name": "recipe1210",
+  "title": "Guacamole",
+  "date": "2013-09-01",
+  "description": "Guacamole is not just something they use to make your Chipotle order. You can actually make it for yourself (results may vary).",
+  "mainImageUrl": "guac-1.png",
+  "images": [
+    "guac-1.png",
+    "guac-2.png",
+    "guac-3.png",
+    "guac-4.png"
+  ],
+  "ingredients": [
+    "avocado",
+    "spicy stuff",
+    "other things",
+    "whatever else you've got"
+  ]
+}
